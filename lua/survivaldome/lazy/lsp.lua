@@ -29,6 +29,8 @@ return {
                 "lua_ls",
                 "rust_analyzer",
                 "clangd",
+                "hls",
+                "asm-lsp",
             },
             handlers = {
                 function(server_name) -- default handler (optional)
